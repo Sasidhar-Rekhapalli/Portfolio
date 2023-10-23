@@ -115,6 +115,16 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Java Full-Stack Developer",
+    company_name: "High Flows IT Solutions",
+    icon: laptop,
+    iconBg: "#E6DEDD",
+    date: "Jul 2019 - Jun 2021",
+    points: [
+      "Designing and developing front-end and back-end systems using a variety of technologies such as Java, JavaScript, ReactJs, Spring.",
+    ],
+  },
+  {
     title: "Computer Technician",
     company_name: "Mobile Store",
     icon: laptop,
